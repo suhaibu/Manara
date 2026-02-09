@@ -1,0 +1,8 @@
+{
+  "name": "Manara: Unified Murid Heritage & Research Platform",
+  "description": "A sophisticated academic platform for preserving Murid heritage, conducting rigorous research, and producing verified knowledge using a controlled AI environment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
